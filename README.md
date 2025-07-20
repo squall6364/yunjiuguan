@@ -84,7 +84,7 @@ app_port: 8000
 
 ### 方法二：快速部署（版本更新延迟）
 
-1. fork仓库 [https://github.com/yu2051/yunjiu99](https://github.com/yu2051/yunjiu99)，fork后的名字不要和原名字一样或类似，不要带SillyTavern类似字眼，等待工作流结束
+1. fork仓库 [https://github.com/yu2051/yunjiu99](https://github.com/yu2051/yunjiu99)， fork后的名字不要和原名字一样或类似，不要带**SillyTavern**类似字眼，等待工作流结束
    
    ![快速Fork仓库](images/wps25.jpg)
 
