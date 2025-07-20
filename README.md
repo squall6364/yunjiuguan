@@ -72,6 +72,7 @@ app_port: 8000
    - **Name**: BASIC_AUTH_PASS，**Value**: 输入复杂密码
 
 等待配置完毕，酒馆启动后插件自动安装
+
    ![HF配置](images/wps17.png)
    ![Docker配置](images/wps18.png)
    ![环境变量](images/wps19.png)
