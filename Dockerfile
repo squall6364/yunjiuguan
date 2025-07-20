@@ -1,5 +1,5 @@
 # Base image
-FROM ghcr.io/SillyTavern/SillyTavern:latest
+gh repo clone SillyTavern/SillyTavern
 
 # Switch to root user to install tools and prepare the filesystem
 USER root
