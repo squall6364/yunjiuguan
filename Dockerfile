@@ -1,5 +1,5 @@
 # Base image
-FROM ghcr.io/你的用户名/克隆的仓库名:latest
+FROM ghcr.io/SillyTavern/SillyTavern:latest
 
 # Switch to root user to install tools and prepare the filesystem
 USER root
