@@ -5,6 +5,7 @@ colorFrom: blue
 colorTo: green
 sdk: docker
 app_port: 8000
+---
 
 ## 📋 目录
 
@@ -102,4 +103,3 @@ app_port: 8000
    ![插件界面](images/wps24.png)
 
 插件使用教程请查看@Malt老师的[教程](https://discord.com/channels/1134557553011998840/1361327099331481621)
----
