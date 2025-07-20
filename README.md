@@ -104,8 +104,8 @@ app_port: 8000
 
 1. **访问酒馆**：部署完成后，访问你的酒馆地址
 2. **打开插件**：通过以下URL打开插件：`你的酒馆地址/api/plugins/cloud-saves/ui`
-2. 通过以下URL打开插件：`你的酒馆地址/api/plugins/cloud-saves/ui`
+
    ![插件访问](images/wps23.png)
    ![插件界面](images/wps24.png)
 
-插件使用教程请查看@Malt老师的[教程](https://discord.com/channels/1134557553011998840/1361327099331481621)
+插件使用教程请查看@Malt老师的[教程]([https://discord.com/channels/1134557553011998840/1361327099331481621](https://github.com/fuwei99/cloud-saves))
