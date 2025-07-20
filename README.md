@@ -12,8 +12,8 @@ app_port: 8000
 - [插件说明](#插件说明)
 - [注意事项](#注意事项)
 - [部署方法](#部署方法)
- -  *[方法一](https://github.com/yu2051/yunjiu99/blob/main/README.md#%E6%96%B9%E6%B3%95%E4%B8%80%E6%89%8B%E5%8A%A8%E9%83%A8%E7%BD%B2%E7%89%88%E6%9C%AC%E5%8F%8A%E6%97%B6%E6%9B%B4%E6%96%B0)*
- -  *[方法二](https://github.com/yu2051/yunjiu99/blob/main/README.md#%E6%96%B9%E6%B3%95%E4%BA%8C%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E5%BB%B6%E8%BF%9F)*
+ --  *[方法一：手动部署（版本及时更新）](https://github.com/yu2051/yunjiu99/blob/main/README.md#%E6%96%B9%E6%B3%95%E4%B8%80%E6%89%8B%E5%8A%A8%E9%83%A8%E7%BD%B2%E7%89%88%E6%9C%AC%E5%8F%8A%E6%97%B6%E6%9B%B4%E6%96%B0)*
+ --  *[方法二：快速部署（版本更新延迟）](https://github.com/yu2051/yunjiu99/blob/main/README.md#%E6%96%B9%E6%B3%95%E4%BA%8C%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E5%BB%B6%E8%BF%9F)*
 - [插件使用](#插件使用)
 
 ## 🔌 插件说明
