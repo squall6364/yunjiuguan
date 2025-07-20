@@ -93,14 +93,14 @@ app_port: 8000
     ```dockerfile
     FROM ghcr.io/你的用户名/你克隆后的仓库名:main
     ```
-   ![HF Docker配置](images/wps26.png)
+   ![HF Docker配置](images/wps27.png)
   - 修改README.md，在末尾填入：
     ```yaml
     app_port: 8000
     ```
   - 配置安全变量，添加Secrets（同上）
  等待配置完毕，时间会比较久。配置完成，酒馆启动，且插件自动安装完毕。
-   ![快速部署完成](images/wps27.png)
+   ![快速部署完成](images/wps26.png)
 
 ## 📱 插件使用
 
