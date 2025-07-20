@@ -1,5 +1,5 @@
 # Base image
-FROM sillytavern/sillytavern:latest
+FROM yu2051/jiuguan002:latest
 
 # Switch to root user to install tools and prepare the filesystem
 USER root
