@@ -34,6 +34,7 @@ app_port: 8000
 #### 第一步：仓库配置
 
 1. 去fork酒馆 [https://github.com/SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)，fork后的名字不要带SillyTavern类似字眼
+   
    ![Fork仓库](images/wps4.png)
    ![重命名仓库](images/wps5.png)
    ![步骤6](images/wps6.png)
@@ -42,7 +43,7 @@ app_port: 8000
    ![步骤9](images/wps9.png)
    ![步骤10](images/wps10.png)
 
-2. 打开你fork后的仓库，点击Settings，将release改为main
+3. 打开你fork后的仓库，点击Settings，将release改为main
    ![仓库设置](images/wps11.png)
 
 #### 配置变量GHCR_PAT
