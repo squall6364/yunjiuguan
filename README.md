@@ -44,6 +44,7 @@ app_port: 8000
    ![步骤10](images/wps10.png)
 
 3. 打开你fork后的仓库，点击Settings，将release改为main
+   
    ![仓库设置](images/wps11.png)
 
 #### 配置变量GHCR_PAT
