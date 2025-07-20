@@ -1,5 +1,5 @@
 ---
-title: SillyTavern Jiuguan
+title: Jiuguan
 emoji:  tavern
 colorFrom: blue
 colorTo: green
