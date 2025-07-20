@@ -51,6 +51,7 @@ app_port: 8000
 
 
 3. 点击该仓库的Actions，创建工作流，等待工作流创建完成
+
    ![Actions设置](images/wps12.png)
    ![创建工作流](images/wps13.png)
    ![工作流配置](images/wps14.png)
