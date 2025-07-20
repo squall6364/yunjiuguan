@@ -16,9 +16,9 @@ app_port: 8000
 
 ## 🔌 插件说明
 
-内置了@Malt的插件，部署完云酒馆后即可打开插件，无需额外安装。
+内置了[@Malt](https://github.com/fuwei99)的插件，部署完云酒馆后即可打开插件，无需额外安装。
 
-插件贴：[Discord](https://discord.com/channels/1134557553011998840/1361327099331481621)
+插件贴：[【云备份存档插件】使用GitHub 轻松备份和同步你的 SillyTavern 数据！](https://discord.com/channels/1134557553011998840/1361327099331481621)
 
 ## ⚠️ 注意事项
 
@@ -78,6 +78,7 @@ app_port: 8000
 ### 方法二：快速部署（版本更新延迟）
 
 1. fork仓库 [https://github.com/yu2051/yunjiu99](https://github.com/yu2051/yunjiu99)，fork后的名字不要和原名字一样或类似，不要带SillyTavern类似字眼，等待工作流结束
+   
    ![快速Fork仓库](images/wps25.jpg)
 
 (2) HF部署：
