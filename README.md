@@ -24,7 +24,7 @@ app_port: 8000
 
 ## ⚠️ 注意事项
 
-- **仓库权限**：确保fork后的仓库设置为Public，Private仓库会导致HF拉取失败
+- **仓库权限**：确保fork后的*Packages*设置为**Public**，**Private**会导致HF拉取失败
   ![仓库权限设置](images/wps1.png)
   ![权限检查](images/wps2.png)
   ![权限修改](images/wps3.png)
