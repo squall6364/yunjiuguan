@@ -110,4 +110,4 @@ app_port: 8000
    ![插件访问](images/wps23.png)
    ![插件界面](images/wps24.png)
 
-插件使用教程请查看@Malt老师的[教程](https://discord.com/channels/1134557553011998840/1361327099331481621](https://github.com/fuwei99/cloud-saves)
+插件使用教程请查看@Malt老师的[教程](https://github.com/fuwei99/cloud-saves)
