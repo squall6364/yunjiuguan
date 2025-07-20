@@ -1,5 +1,5 @@
 # Base image
-gh repo clone SillyTavern/SillyTavern
+FROM sillytavern/sillytavern:latest
 
 # Switch to root user to install tools and prepare the filesystem
 USER root
