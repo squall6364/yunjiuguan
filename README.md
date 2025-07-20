@@ -35,7 +35,7 @@ app_port: 8000
 
 #### 第一步：仓库配置
 
-1. 去fork酒馆 [https://github.com/SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)，fork后的名字不要带SillyTavern类似字眼
+1. 去fork酒馆 [https://github.com/SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)， fork后的名字不要带**SillyTavern**类似字眼
    
    ![Fork仓库](images/wps4.png)
    ![重命名仓库](images/wps5.png)
@@ -62,7 +62,7 @@ app_port: 8000
 
 #### 第二步：HF配置
 
-- 空间命名不要出现SillyTavern类似字眼
+- 空间命名不要出现**SillyTavern**类似字眼
 - 修改Dockerfile配置
 1. 将修改后的Dockerfile与entrypoint.sh、config.template.yaml一起上传
 2. 修改README.md，在末尾填入：
