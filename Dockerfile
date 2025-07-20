@@ -1,5 +1,5 @@
 # Base image
-FROM yu2051/jiuguan002:latest
+FROM ghcr.io/yu2051/jiuguan002:latest
 
 # Switch to root user to install tools and prepare the filesystem
 USER root
