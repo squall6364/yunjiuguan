@@ -64,7 +64,7 @@ app_port: 8000
 
 - 空间命名不要出现**SillyTavern**类似字眼
 - 修改Dockerfile配置
-- 如果上面后缀为**latest**部署不了，尝试：
+- 如果Dockerfile后缀为**latest**部署不了，尝试将**latest**改为**main**
   ```dockerfile
     FROM ghcr.io/你的用户名/你克隆后的仓库名:main
     ```
